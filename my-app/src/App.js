@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <iframe
+        title="Unique Title"
         src="https://deli-microsite.test.sites.spheremall.com/cando/nl-NL"
         width="100%"
         height="800"
